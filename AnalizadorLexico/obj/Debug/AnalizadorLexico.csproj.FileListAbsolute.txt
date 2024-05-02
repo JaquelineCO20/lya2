@@ -1,0 +1,82 @@
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Aduasis\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Aduasis\Documents\ArcadioTemp\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\arcad\Downloads\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\arcad\Documents\Arcadio Rdz\9no Semestre\Materias\LYA II\U1\Analizador Léxico\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\byjok\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Jackc\Desktop\jack\lya2\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Jackc\Desktop\jack\lya2\CORRECCION\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
